@@ -17,55 +17,55 @@ msgstr ""
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../admin/metaboxes.php:30
-msgid "Review"
+msgid "İnceleme"
 msgstr ""
 
 #: ../admin/metaboxes.php:39
-msgid "Review Item"
+msgid "Eşyaları incele"
 msgstr ""
 
 #: ../admin/metaboxes.php:48 ../admin/metaboxes.php:274
-msgid "Review Heading"
+msgid "Konu inceleme"
 msgstr ""
 
 #: ../admin/metaboxes.php:57
-msgid "Review Description"
+msgid "Kelime inceleme"
 msgstr ""
 
 #: ../admin/metaboxes.php:66
-msgid "User Reviews"
+msgid "Kullanıcı inceleme"
 msgstr ""
 
 #: ../admin/metaboxes.php:90 ../includes/widget.php:76
-msgid "Star"
+msgid "Yıldız"
 msgstr ""
 
 #: ../admin/metaboxes.php:90 ../includes/widget.php:77
-msgid "Point"
+msgid "Popüler"
 msgstr ""
 
 #: ../admin/metaboxes.php:90 ../includes/widget.php:78
-msgid "Percentage"
+msgid "Yüzde derecelendirme"
 msgstr ""
 
 #: ../admin/metaboxes.php:94
-msgid "Review Type"
+msgid "Görüntüleme Tipi"
 msgstr ""
 
 #: ../admin/metaboxes.php:96
-msgid "No Review"
+msgid "Görüntüleme yok"
 msgstr ""
 
 #: ../admin/metaboxes.php:160
-msgid "Review Location"
+msgid "İnceleme Yeri"
 msgstr ""
 
 #: ../admin/metaboxes.php:162
-msgid "After Content"
+msgid "Sonraki İçerik"
 msgstr ""
 
 #: ../admin/metaboxes.php:163
-msgid "Before Content"
+msgid "Önceki İçerik"
 msgstr ""
 
 #: ../admin/metaboxes.php:164
@@ -93,11 +93,11 @@ msgid "Background Color"
 msgstr ""
 
 #: ../admin/metaboxes.php:195
-msgid "Border Color"
+msgid "Sınır Rengi"
 msgstr ""
 
 #: ../admin/metaboxes.php:204
-msgid "Feature Name"
+msgid "Özellik Adı"
 msgstr ""
 
 #: ../admin/metaboxes.php:205
@@ -106,23 +106,23 @@ msgstr ""
 
 #: ../admin/metaboxes.php:222 ../admin/metaboxes.php:232
 #: ../admin/metaboxes.php:241
-msgid "Delete"
+msgid "Sil"
 msgstr ""
 
 #: ../admin/metaboxes.php:250
-msgid "Add another"
+msgid "Başka bir tane ekle"
 msgstr ""
 
 #: ../admin/metaboxes.php:254
-msgid "Total"
+msgid "Toplam"
 msgstr ""
 
 #: ../admin/metaboxes.php:313
-msgid "Disabled"
+msgid "Pasif"
 msgstr ""
 
 #: ../admin/metaboxes.php:317
-msgid "Enabled"
+msgid "Aktif"
 msgstr ""
 
 #: ../includes/functions.php:144
@@ -130,15 +130,15 @@ msgid "Summary"
 msgstr ""
 
 #: ../includes/functions.php:226
-msgid "User Rating"
+msgid "Kullanıcı Oylaması"
 msgstr ""
 
 #: ../includes/functions.php:227
-msgid "votes"
+msgid "Oy Kullanıldı"
 msgstr ""
 
 #: ../includes/functions.php:234
-msgid "Sending"
+msgid "Gönderiliyor"
 msgstr ""
 
 #: ../includes/widget.php:13
