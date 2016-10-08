@@ -130,11 +130,11 @@ msgid "Summary"
 msgstr ""
 
 #: ../includes/functions.php:226
-msgid "User Rating"
+msgid "Kullanıcı Oylaması"
 msgstr ""
 
 #: ../includes/functions.php:227
-msgid "votes"
+msgid "Oy kullanıldı"
 msgstr ""
 
 #: ../includes/functions.php:234
